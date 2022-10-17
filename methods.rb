@@ -26,7 +26,7 @@ add(2, 4)
 def halve num
   if num == num.to_i
     return num/2
-  elsif
+  else
    nil
   end
 end
